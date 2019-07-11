@@ -1,4 +1,23 @@
-.cake {
+.title {
     display: inline;
+}
 
+.cake {
+    margin-left: 2%;
+    font-size: 400%;
+    display: inline;
+}
+
+.container {
+    margin-top: 2%;
+}
+
+.card {
+    margin: 3%;
+    height: 300px;
+    padding: 0%;
+}
+
+.img {
+    margin-top: 14%;
 }
