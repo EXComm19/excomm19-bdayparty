@@ -1,23 +1,48 @@
+body {
+    background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/JrbItQz/white-polygonal-geometric-surface-seamless-loop-4k-uhd-3840x2160_nyllfzz7e__F0000.png');
+    background-repeat: round
+}
+
+.header {
+    background-color: rgba(255, 255, 255, .80);
+    background-size: contain;
+    border-radius: 50px;
+    margin: 10px;
+}
+
 .title {
-    display: inline;
+    display: inline-block;
+    margin-left: 30px;
 }
 
 .cake {
     margin-left: 2%;
-    font-size: 400%;
-    display: inline;
-}
-
-.container {
-    margin-top: 2%;
+    font-size: 350%;
+    display: inline-block;
+    align-self: baseline
 }
 
 .card {
-    margin: 3%;
-    height: 300px;
-    padding: 0%;
+    height: 48%;
 }
 
-.img {
-    margin-top: 14%;
+.card-title {
+    font-size: 50%
+}
+
+.outside {
+    cursor: pointer;
+}
+
+.dat {
+    margin-top: 10px
+}
+
+.pizza {
+    width: 100%;
+    background-color: rgba(255, 255, 255, .70);
+}
+
+.weather {
+    margin-top: 7px;
 }
